@@ -20,11 +20,6 @@ This is a simple rock paper scissor game built using HTML, CSS and JavaScript
 - GitHub
 - Netlify(for hosting and domain)
 
-## How to Play
-- Click on rock, paper or scissor
-- check the log message for result
-- check the score card for comparsion
-
 ## Project Structure
 ```
 Project/
