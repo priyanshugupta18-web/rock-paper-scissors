@@ -25,12 +25,6 @@ This is a simple rock paper scissor game built using HTML, CSS and JavaScript
 - check the log message for result
 - check the score card for comparsion
 
-## Screenshot
-![Game Screenshot](others/gamePreview.jpeg)
-
-## Live Demo
-[click here](https://rock-paper-scissors-by-kira.netlify.app/)
-
 ## Project Structure
 ```
 Project/
